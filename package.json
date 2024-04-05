@@ -68,7 +68,7 @@
     "@types/jest": "29.4.0",
     "@types/md5": "2.3.2",
     "@types/node": "18.14.6",
-    "@types/supertest": "2.0.12",
+    "@types/supertest": "2.0.16",
     "@typescript-eslint/eslint-plugin": "5.54.1",
     "@typescript-eslint/parser": "5.54.1",
     "apollo-server-express": "3.12.0",
